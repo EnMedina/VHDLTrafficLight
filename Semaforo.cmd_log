@@ -13,3 +13,9 @@ map -intstyle ise -p xc3s1200e-fg320-4 -cm area -ir off -pr off -c 100 -o Semafo
 par -w -intstyle ise -ol high -t 1 Semaforo_map.ncd Semaforo.ncd Semaforo.pcf 
 trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Semaforo.twx Semaforo.ncd -o Semaforo.twr Semaforo.pcf -ucf Semaforo.ucf 
 bitgen -intstyle ise -f Semaforo.ut Semaforo.ncd 
+xst -intstyle ise -ifn "C:/SPB_Data/version-control/XilinxProjects/Light/Semaforo.xst" -ofn "C:/SPB_Data/version-control/XilinxProjects/Light/Semaforo.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Semaforo.ucf -p xc3s1200e-fg320-4 Semaforo.ngc Semaforo.ngd  
+map -intstyle ise -p xc3s1200e-fg320-4 -cm area -ir off -pr off -c 100 -o Semaforo_map.ncd Semaforo.ngd Semaforo.pcf 
+par -w -intstyle ise -ol high -t 1 Semaforo_map.ncd Semaforo.ncd Semaforo.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Semaforo.twx Semaforo.ncd -o Semaforo.twr Semaforo.pcf -ucf Semaforo.ucf 
+bitgen -intstyle ise -f Semaforo.ut Semaforo.ncd 

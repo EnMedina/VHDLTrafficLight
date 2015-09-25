@@ -111,7 +111,7 @@
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
     </transform>
-    <transform xil_pn:end_ts="1443204984" xil_pn:in_ck="6999892772927121351" xil_pn:name="TRANEXT_xstsynthesize_spartan3e" xil_pn:prop_ck="8983188300474126738" xil_pn:start_ts="1443204977">
+    <transform xil_pn:end_ts="1443206180" xil_pn:in_ck="6999892772927121351" xil_pn:name="TRANEXT_xstsynthesize_spartan3e" xil_pn:prop_ck="8983188300474126738" xil_pn:start_ts="1443206173">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="WarningsGenerated"/>
       <status xil_pn:value="ReadyToRun"/>
@@ -135,7 +135,7 @@
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
     </transform>
-    <transform xil_pn:end_ts="1443205088" xil_pn:in_ck="1433914500697109322" xil_pn:name="TRANEXT_ngdbuild_FPGA" xil_pn:prop_ck="-2173011662893464350" xil_pn:start_ts="1443205082">
+    <transform xil_pn:end_ts="1443206185" xil_pn:in_ck="1433914500697109322" xil_pn:name="TRANEXT_ngdbuild_FPGA" xil_pn:prop_ck="-2173011662893464350" xil_pn:start_ts="1443206180">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
       <outfile xil_pn:name="Semaforo.bld"/>
@@ -144,7 +144,7 @@
       <outfile xil_pn:name="_ngo"/>
       <outfile xil_pn:name="_xmsgs/ngdbuild.xmsgs"/>
     </transform>
-    <transform xil_pn:end_ts="1443205092" xil_pn:in_ck="3101804015650094283" xil_pn:name="TRANEXT_map_spartan3" xil_pn:prop_ck="3188416950630775481" xil_pn:start_ts="1443205088">
+    <transform xil_pn:end_ts="1443206189" xil_pn:in_ck="3101804015650094283" xil_pn:name="TRANEXT_map_spartan3" xil_pn:prop_ck="3188416950630775481" xil_pn:start_ts="1443206185">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
       <outfile xil_pn:name="Semaforo.pcf"/>
@@ -157,7 +157,7 @@
       <outfile xil_pn:name="Semaforo_usage.xml"/>
       <outfile xil_pn:name="_xmsgs/map.xmsgs"/>
     </transform>
-    <transform xil_pn:end_ts="1443205114" xil_pn:in_ck="-4559800603562391324" xil_pn:name="TRANEXT_par_spartan3" xil_pn:prop_ck="6268780068511726196" xil_pn:start_ts="1443205092">
+    <transform xil_pn:end_ts="1443206209" xil_pn:in_ck="-4559800603562391324" xil_pn:name="TRANEXT_par_spartan3" xil_pn:prop_ck="6268780068511726196" xil_pn:start_ts="1443206189">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="WarningsGenerated"/>
       <status xil_pn:value="ReadyToRun"/>
@@ -172,7 +172,7 @@
       <outfile xil_pn:name="Semaforo_par.xrpt"/>
       <outfile xil_pn:name="_xmsgs/par.xmsgs"/>
     </transform>
-    <transform xil_pn:end_ts="1443205131" xil_pn:in_ck="4354884086615793919" xil_pn:name="TRANEXT_bitFile_spartan3e" xil_pn:prop_ck="-7817169320884990698" xil_pn:start_ts="1443205114">
+    <transform xil_pn:end_ts="1443206232" xil_pn:in_ck="4354884086615793919" xil_pn:name="TRANEXT_bitFile_spartan3e" xil_pn:prop_ck="-7817169320884990698" xil_pn:start_ts="1443206220">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
       <outfile xil_pn:name="Semaforo.ut"/>
@@ -184,7 +184,7 @@
       <outfile xil_pn:name="webtalk.log"/>
       <outfile xil_pn:name="webtalk_pn.xml"/>
     </transform>
-    <transform xil_pn:end_ts="1443205114" xil_pn:in_ck="4301316926370698823" xil_pn:name="TRAN_postRouteTrce" xil_pn:prop_ck="445577401284416186" xil_pn:start_ts="1443205110">
+    <transform xil_pn:end_ts="1443206209" xil_pn:in_ck="4301316926370698823" xil_pn:name="TRAN_postRouteTrce" xil_pn:prop_ck="445577401284416186" xil_pn:start_ts="1443206205">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
       <outfile xil_pn:name="Semaforo.twr"/>

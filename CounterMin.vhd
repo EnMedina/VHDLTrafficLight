@@ -44,6 +44,7 @@ process(Clk)
 	if(Clk'event and Clk='1')then
 		if(ctrlVect=temp)then
 			minPass<='1';
+			temp<=(others=>'0');
 		else 
 			minPass<='0';
 			temp<=temp+1;

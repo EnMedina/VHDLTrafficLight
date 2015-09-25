@@ -28,7 +28,7 @@ NGDBUILD Design Results Summary:
   Number of errors:     0
   Number of warnings:   0
 
-Total memory usage is 145736 kilobytes
+Total memory usage is 145416 kilobytes
 
 Writing NGD file "Semaforo.ngd" ...
 Total REAL time to NGDBUILD completion:  2 sec
