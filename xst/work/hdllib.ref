@@ -1,0 +1,10 @@
+AR countersec behavioral C:/SPB_Data/version-control/XilinxProjects/Light/Counter.vhd sub00/vhpl07 1443204980
+AR compare behavioral C:/SPB_Data/version-control/XilinxProjects/Light/Compare.vhd sub00/vhpl05 1443204982
+EN countersec NULL C:/SPB_Data/version-control/XilinxProjects/Light/Counter.vhd sub00/vhpl06 1443204979
+AR counter behavioral C:/SPB_Data/version-control/XilinxProjects/Light/Counter.vhd sub00/vhpl01 1443200308
+EN counter NULL C:/SPB_Data/version-control/XilinxProjects/Light/Counter.vhd sub00/vhpl00 1443200307
+EN compare NULL C:/SPB_Data/version-control/XilinxProjects/Light/Compare.vhd sub00/vhpl04 1443204981
+EN countermin NULL C:/SPB_Data/version-control/XilinxProjects/Light/CounterMin.vhd sub00/vhpl08 1443204983
+AR countermin behavioral C:/SPB_Data/version-control/XilinxProjects/Light/CounterMin.vhd sub00/vhpl09 1443204984
+AR semaforo behavioral C:/SPB_Data/version-control/XilinxProjects/Light/Semaforo.vhd sub00/vhpl03 1443204986
+EN semaforo NULL C:/SPB_Data/version-control/XilinxProjects/Light/Semaforo.vhd sub00/vhpl02 1443204985

@@ -1,0 +1,10 @@
+#-----------------------------------------------------------
+# PlanAhead v14.7 (64-bit)
+# Build 321239 by xbuild on Fri Sep 27 19:29:51 MDT 2013
+# Start of session at: Fri Sep 25 11:59:46 2015
+# Process ID: 5088
+# Log file: C:/SPB_Data/version-control/XilinxProjects/Light/planAhead_run_2/planAhead.log
+# Journal file: C:/SPB_Data/version-control/XilinxProjects/Light/planAhead_run_2/planAhead.jou
+#-----------------------------------------------------------
+start_gui
+source C:/SPB_Data/version-control/XilinxProjects/Light/pa.fromNetlist.tcl

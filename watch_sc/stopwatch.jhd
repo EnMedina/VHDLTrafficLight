@@ -1,0 +1,17 @@
+MODULE stopwatch
+	SUBMODULE cnt60
+		INSTANCE sixty
+	SUBMODULE DCM1
+		INSTANCE DCM_INST
+	SUBMODULE decode
+		INSTANCE tenths_decoder
+	SUBMODULE stmach_v
+		INSTANCE state_machine
+	SUBMODULE outs3
+		INSTANCE tenths_out
+	SUBMODULE tenths
+		INSTANCE tenths_core
+	SUBMODULE hex2led
+		INSTANCE ones_out
+	SUBMODULE hex2led
+		INSTANCE tens_out

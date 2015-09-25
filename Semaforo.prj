@@ -1,0 +1,4 @@
+vhdl work "CounterMin.vhd"
+vhdl work "Counter.vhd"
+vhdl work "Compare.vhd"
+vhdl work "Semaforo.vhd"

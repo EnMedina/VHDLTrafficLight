@@ -1,0 +1,5 @@
+set -tmpdir "C:/SPB_Data/version-control/XilinxProjects/Light/xst/projnav.tmp"
+set -xsthdpdir "C:/SPB_Data/version-control/XilinxProjects/Light/xst"
+elaborate
+-ifn Counter.prj
+-ifmt mixed

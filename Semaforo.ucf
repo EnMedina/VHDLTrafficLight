@@ -1,0 +1,8 @@
+
+
+NET "Semaforo1[0]" LOC = J14;
+NET "Clk" LOC = B8;
+
+# PlanAhead Generated physical constraints 
+
+NET "Semaforo1[1]" LOC = J15;
